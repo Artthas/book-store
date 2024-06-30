@@ -1,0 +1,1 @@
+export const onePageLimitBooks = 3;
